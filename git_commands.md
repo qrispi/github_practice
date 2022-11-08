@@ -4,3 +4,6 @@
 1. `git push --force repository-name branch-name`
 
 Let's try it out!
+
+The following code worked:
+`git push origin main --force`
